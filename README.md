@@ -8,13 +8,11 @@ It documents my progress through LeetCode's SQL 50 Study Plan and includes my so
 
 ## Current Progress
 
-**36 / 50 problems completed**
+**50 / 50 problems completed**
 
-I am currently working through LeetCode's SQL 50 Study Plan and continuing to add solutions as I progress.
+I have finished sql study.
 
 ## Future Direction
-
-My current focus is to complete all 50 problems in the SQL 50 Study Plan.
 
 After completing the study plan, I plan to continue expanding this repository with additional SQL problems from LeetCode and other sources. Over time, I want this repository to serve as an ongoing record of my SQL development and demonstrate increasingly advanced SQL concepts and problem-solving techniques.
 
